@@ -103,8 +103,8 @@ A real-time hand gesture recognition system to control "Gas" and "Brake" in Hill
 - **Email**: [anasa22cs@cmrit.ac.in](mailto:anasa22cs@cmrit.ac.in) / [ananyaasai114@gmail.com](mailto:ananyaasai114@gmail.com)
 - **Phone**: 9740356476
 - **LinkedIn**: [Ananya A Sai](https://www.linkedin.com/in/ananya-a-sai-25585a32b)
-- **GitHub**: [ananyaasai114](https://github.com/ananyaasai114)
-- **Codechef**: [anasa22cs](https://www.codechef.com/users/anasa22cs)
+- **GitHub**: (https://github.com/ananyaasai114)
+- **Codechef**: (https://www.codechef.com/users/anasa22cs)
 
 ## License
 
